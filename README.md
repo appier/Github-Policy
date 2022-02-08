@@ -37,6 +37,6 @@ Table of Contents
 
 
 ## To the administrator
-- When the administrator add the new user, please also add the person into the team [Appier developers](https://github.com/orgs/appier/teams/appier-developers)
-- The administrator needs to update the access permission when the users onboard and offboard
+- When the administrator add the new user, please also add the person into the team [Appier developers](https://github.com/orgs/appier/teams/appier-developers).
+- The administrator needs to update the access permission when the users onboard and offboard.
 - The administrator needs to review the account & permission every 6 months.
