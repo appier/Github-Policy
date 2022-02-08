@@ -8,8 +8,8 @@ Table of Contents
 
 
 ## To the users
-- To access Appier GitHub repositories or join the Appier , the applicant shall apply via JIRA(ET or Info project) ticket and get the approval from Joe Su. Please provide your information as below - 
-    - Your Github account and primary email
+- To access Appier GitHub repositories or join the Appier GitHub, the applicant shall apply via JIRA(ET or Info project) ticket and get the approval from Joe Su. Please provide your information as below - 
+    - Your GitHub account and primary email
     - The project or repo owner's approval
     - Which team / project / repository you apply to join
 - The applicant is only allowed to access the projects/repositories which you are working on. To access the irrelevant project/repository is not allowed.
