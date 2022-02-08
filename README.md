@@ -2,13 +2,13 @@
 Table of Contents
 =================
 
-  * [To the developers](#to-the-developers)
+  * [For the developers](#for-the-developers)
       * [If you are using the personal GitHub account](#if-you-are-using-the-personal-github-account)
-  * [To the repository's or project's owner](#to-the-repositorys-or-projects-owner)
-  * [To the administrator](#to-the-administrator)
+  * [For the repository's or project's owner](#for-the-repositorys-or-projects-owner)
+  * [For the administrator](#for-the-administrator)
 
 
-## To the developers
+## For the developers
 - To access Appier GitHub repositories or join the Appier GitHub, the applicant shall apply via JIRA(ET or Info project) ticket and get the approval from Joe Su. Please provide your information as below - 
     - Your GitHub account and primary email
     - The project or repo owner's approval
@@ -28,7 +28,7 @@ Table of Contents
     ![CleanShot 2022-02-08 at 20 39 24@2x](https://user-images.githubusercontent.com/80888432/152989480-92dda3cc-9e00-44d3-a702-3ddc737303af.png)
 
 
-## To the repository's or project's owner
+## For the repository's or project's owner
 - The repo's owner has the responsibility to manage the access.
 ![CleanShot 2022-02-08 at 16 12 49@2x](https://user-images.githubusercontent.com/80888432/152953278-f4faa0a5-ffa7-470c-bc5b-852e7cec2559.png)
 
@@ -36,7 +36,7 @@ Table of Contents
 ![CleanShot 2022-02-08 at 16 42 48@2x](https://user-images.githubusercontent.com/80888432/152953310-5737bac3-349b-4b78-b40a-ee242352749f.png)
 
 
-## To the administrator
+## For the administrator
 - When the administrator add the new user, please also add the person into the team [Appier developers](https://github.com/orgs/appier/teams/appier-developers).
 - The administrator needs to update the access permission when the users onboard and offboard.
 - The administrator needs to review the account & permission every 6 months.
