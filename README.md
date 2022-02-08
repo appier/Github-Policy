@@ -4,7 +4,7 @@ Table of Contents
 
   * [For the developers](#for-the-developers)
       * [If you are using the personal GitHub account](#if-you-are-using-the-personal-github-account)
-  * [For the repository's or project's owner](#for-the-repositorys-or-projects-owner)
+  * [For the project's owner or team lead](#for-the-projects-owner-or-team-lead)
   * [For the administrator](#for-the-administrator)
 
 
@@ -28,8 +28,8 @@ Table of Contents
     ![CleanShot 2022-02-08 at 20 39 24@2x](https://user-images.githubusercontent.com/80888432/152989480-92dda3cc-9e00-44d3-a702-3ddc737303af.png)
 
 
-## For the repository's or project's owner
-- The repo's owner has the responsibility to manage the access.
+## For the project's owner or team lead
+- The team lead or project's owner has the responsibility to manage the repository access.
 ![CleanShot 2022-02-08 at 16 12 49@2x](https://user-images.githubusercontent.com/80888432/152953278-f4faa0a5-ffa7-470c-bc5b-852e7cec2559.png)
 
 - Outside collaborators are not allowed to access Appier organization repositories. The ropo's owner shall remove the outside collaborators or help them to join the Appier organization via the application process.
