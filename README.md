@@ -4,6 +4,7 @@ Table of Contents
 
   * [For the developers](#for-the-developers)
       * [If you are using the personal GitHub account](#if-you-are-using-the-personal-github-account)
+      * [Check list before you start to use GitHub](#check-list-before-you-start-to-use-github)
   * [For the project's owner or team lead](#for-the-projects-owner-or-team-lead)
   * [For the administrator](#for-the-administrator)
 
