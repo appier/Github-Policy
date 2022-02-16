@@ -6,7 +6,7 @@ Table of Contents
       * [If you are using the personal GitHub account](#if-you-are-using-the-personal-github-account)
       * [Check list before you start to use GitHub](#check-list-before-you-start-to-use-github)
   * [For the project's owner or team lead](#for-the-projects-owner-or-team-lead)
-  * [For the administrator](#for-the-administrator)
+  * [For the GitHub administrator](#for-the-github-administrator)
 
 
 ## For the developers
@@ -43,7 +43,7 @@ Table of Contents
 ![CleanShot 2022-02-08 at 16 42 48@2x](https://user-images.githubusercontent.com/80888432/152953310-5737bac3-349b-4b78-b40a-ee242352749f.png)
 
 
-## For the administrator
+## For the GitHub administrator
 - When the administrator add the new user, please also add the person into the team [Appier developers](https://github.com/orgs/appier/teams/appier-developers).
 - The administrator needs to update the access permission when the users onboard and offboard.
 - The administrator needs to review the account & permission every 6 months.
