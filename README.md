@@ -22,6 +22,8 @@ Table of Contents
 - If you are using the personal GitHub account, please note the below mandatory requirement -
     - **You shall know clearly what is your personal repository and what is the Appier repository. Fork any repo from Appier Organization to your personal project is a big no-no, and will be treat as a security issue.**
     - you CAN NOT integrate the Appier repository with your personal hosting service like Netlify and so on.
+    - add the company email in your account, and use it as primary email address.
+    ![CleanShot 2022-02-08 at 16 01 38@2x](https://user-images.githubusercontent.com/80888432/152953095-e003b227-63f4-400f-9d15-5d9aae57bccf.png)
     - revise your name as the same in the Appier, or you can add the name in Bio field, it's easier to identify who you are.
     - setup custom routing for Appier Org in [notification page](https://github.com/settings/notifications).
     ![CleanShot 2022-02-08 at 20 39 24@2x](https://user-images.githubusercontent.com/80888432/152989480-92dda3cc-9e00-44d3-a702-3ddc737303af.png)
