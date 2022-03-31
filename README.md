@@ -14,6 +14,7 @@ Table of Contents
 ```
 * Your GitHub account: 
 * GitHub team: 
+* Appier email: 
 ```
 
 - The applicant is only allowed to access the projects/repositories which you are working on. To access the irrelevant project/repository is not allowed.
