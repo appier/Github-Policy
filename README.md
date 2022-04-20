@@ -10,7 +10,7 @@ Table of Contents
 
 
 ## For the developers
-- To access Appier GitHub repositories or join the Appier GitHub, the applicant shall apply via (IT help center)[https://appier.atlassian.net/servicedesk/customer/portal/10/group/30] ticket and get the approval from Joe Su. Please (1).copy-paste the below information into the ticket (2) and your supervisor's approval in this ticket.
+- To access Appier GitHub repositories or join the Appier GitHub, the applicant shall apply via [IT help center](https://appier.atlassian.net/servicedesk/customer/portal/10/group/30) and get the approval from Joe Su. Please (1).copy-paste the below information into the ticket (2) and your supervisor's approval in this ticket.
 ```
 * Your GitHub account: 
 * GitHub team: 
