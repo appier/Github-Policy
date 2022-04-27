@@ -39,7 +39,7 @@ Table of Contents
 ## For the project's owner or team lead
 - The team lead or project's owner has the responsibility to manage the repository access.
 ![CleanShot 2022-02-08 at 16 12 49@2x](https://user-images.githubusercontent.com/80888432/152953278-f4faa0a5-ffa7-470c-bc5b-852e7cec2559.png)
-- If you would like to publish the repository in public, you shall apply it via JIRA(ET project, assign to Jimmy.Hsiao) ticket and provide the repository name and reason for public.
+- **If you would like to publish the repository in public, you shall apply it via JIRA**(ET project, assign to Jimmy.Hsiao) ticket and provide the repository name and reason for public.
 - Outside collaborators are not allowed to access Appier organization repositories. The ropo's owner shall remove the outside collaborators or help them to join the Appier organization via the application process.
 ![CleanShot 2022-02-08 at 16 42 48@2x](https://user-images.githubusercontent.com/80888432/152953310-5737bac3-349b-4b78-b40a-ee242352749f.png)
 - For the candidate interview purpose, you can add the outside collaborator to a specific repository and there is NO any Appier's property in it.
